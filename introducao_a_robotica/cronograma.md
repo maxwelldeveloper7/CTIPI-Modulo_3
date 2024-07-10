@@ -1,69 +1,65 @@
-Para criar uma trilha de aprendizado que se distribua ao longo de 20 semanas, considerando 40 aulas de 50 minutos, é importante organizar os conteúdos de forma progressiva, iniciando pelos conceitos básicos e avançando para tópicos mais complexos. A trilha incluirá a exposição de conteúdo, seguida de exercícios teóricos e práticos utilizando o Tinkercad.
+## Trilha de aprendizado para o componente curricular "Introdução à Robótica"
 
-### Semana 1-2: Introdução e Conceitos Básicos de Eletricidade
-- **Aula 1:** Apresentação da disciplina, objetivos e metodologia. Introdução à eletricidade: conceitos de tensão, corrente e resistência.
-- **Aula 2:** Leis de Ohm e Kirchhoff. Exercícios teóricos.
-- **Aula 3:** Circuitos elétricos simples. Uso do multímetro.
-- **Aula 4:** Prática no Tinkercad: criação de circuitos básicos.
+### Semana 1-2: Fundamentos de Eletricidade
+- **Aula 1:** Introdução ao curso e visão geral da robótica.
+- **Aula 2:** O que é eletricidade? Conceitos de carga elétrica e campos elétricos.
+- **Aula 3:** Origem da corrente elétrica: condutores, isolantes e semicondutores.
+- **Aula 4:** Tipos de corrente: corrente contínua (CC) e corrente alternada (CA). Exercícios teóricos.
 
-### Semana 3-4: Conceitos de Eletrônica
-- **Aula 5:** Introdução aos componentes eletrônicos: resistores, capacitores, diodos.
-- **Aula 6:** Transistores e suas aplicações.
-- **Aula 7:** Montagem de circuitos eletrônicos básicos.
-- **Aula 8:** Prática no Tinkercad: montagem de circuitos com resistores e capacitores.
+### Semana 3-4: Lei de Ohm e Circuitos Elétricos Básicos
+- **Aula 5:** Lei de Ohm. Relacionamento entre tensão, corrente e resistência.
+- **Aula 6:** Circuitos em série e paralelo. Cálculo de parâmetros em circuitos combinados.
+- **Aula 7:** Uso do multímetro para medição de parâmetros elétricos.
+- **Aula 8:** Prática no Tinkercad: criação e análise de circuitos básicos.
 
-### Semana 5-6: Introdução ao Arduino
-- **Aula 9:** O que é o Arduino? História e aplicações.
-- **Aula 10:** Noções básicas de C++ para Arduino. Estrutura de um programa.
-- **Aula 11:** Introdução ao IDE do Arduino e primeiros programas.
-- **Aula 12:** Prática no Tinkercad: programação básica de LEDs.
+### Semana 5-6: Eletrônica e Introdução ao Arduino
+- **Aula 9:** Componentes eletrônicos básicos: resistores, capacitores, diodos e transistores.
+- **Aula 10:** Introdução ao Arduino: configuração e componentes básicos.
+- **Aula 11:** Noções básicas de programação em C++ para Arduino.
+- **Aula 12:** Prática no Tinkercad: programação de um circuito simples com Arduino.
 
-### Semana 7-8: Programação em C++ para Arduino
-- **Aula 13:** Estruturas de controle: if, else, loops.
-- **Aula 14:** Funções e bibliotecas do Arduino.
-- **Aula 15:** Projeto prático: semáforo com LEDs.
-- **Aula 16:** Prática no Tinkercad: implementação do projeto semáforo.
+### Semana 7-8: Programação em C++ e Projeto com Arduino
+- **Aula 13:** Estruturas de controle em C++ (condicionais, loops).
+- **Aula 14:** Funções, bibliotecas e integração com sensores.
+- **Aula 15:** Projeto prático: sistema de alarme simples com sensores.
+- **Aula 16:** Prática no Tinkercad: implementação e teste do sistema de alarme.
 
-### Semana 9-10: Componentes de um Robô
-- **Aula 17:** Introdução aos componentes de um robô: motores, sensores, atuadores.
-- **Aula 18:** Sensores: tipos e aplicações.
-- **Aula 19:** Mobilidade: tipos de movimento e controle.
-- **Aula 20:** Prática no Tinkercad: uso de sensores básicos.
+### Semana 9-10: Componentes e Estrutura de Robôs
+- **Aula 17:** Visão geral dos componentes de um robô: sensores, atuadores, motores.
+- **Aula 18:** Exploração de diferentes tipos de sensores e suas aplicações.
+- **Aula 19:** Mobilidade e controle de movimento em robótica.
+- **Aula 20:** Prática no Tinkercad: design e simulação de um robô móvel simples.
 
-### Semana 11-12: Arquitetura de Sistemas Robotizados
-- **Aula 21:** Arquitetura de sistemas robotizados: componentes e interações.
-- **Aula 22:** Montagem de um robô simples: parte 1.
-- **Aula 23:** Montagem de um robô simples: parte 2.
-- **Aula 24:** Prática no Tinkercad: simulação da montagem do robô.
+### Semana 11-12: Inteligência Artificial em Robótica
+- **Aula 21:** Fundamentos de Inteligência Artificial e sua aplicação em robótica.
+- **Aula 22:** Introdução ao machine learning: conceitos básicos e aplicações.
+- **Aula 23:** Implementação de algoritmos simples de IA em robôs.
+- **Aula 24:** Prática no Tinkercad: simulação de um robô com capacidades autônomas básicas.
 
-### Semana 13-14: Aplicações de Inteligência Artificial em Robótica
-- **Aula 25:** Introdução à Inteligência Artificial (IA).
-- **Aula 26:** Machine learning e suas aplicações em robótica.
-- **Aula 27:** Navegação autônoma e reconhecimento de objetos.
-- **Aula 28:** Prática no Tinkercad: projetos simples com IA.
+### Semana 13-14: Exploração de Kits de Robótica
+- **Aula 25:** Visão geral dos kits de robótica disponíveis no mercado.
+- **Aula 26:** Seleção e utilização de um kit de robótica adequado para projetos.
+- **Aula 27:** Montagem e programação de robôs usando kits específicos.
+- **Aula 28:** Prática no Tinkercad: simulação com kits de robótica.
 
-### Semana 15-16: Kits de Robótica
-- **Aula 29:** Tipos de kits de robótica disponíveis.
-- **Aula 30:** Escolha do kit adequado para diferentes projetos.
-- **Aula 31:** Montagem e programação com kits de robótica.
-- **Aula 32:** Prática no Tinkercad: simulação com kits de robótica.
+### Semana 15-16: Projeto Integrador - Parte 1
+- **Aula 29:** Planejamento e design de um projeto integrador.
+- **Aula 30:** Desenvolvimento do projeto: integração de componentes eletrônicos.
+- **Aula 31:** Continuação do desenvolvimento: programação e teste preliminar.
+- **Aula 32:** Prática no Tinkercad: simulação e ajustes do projeto.
 
-### Semana 17-18: Projetos Integradores
-- **Aula 33:** Planejamento de um projeto integrador: definição e requisitos.
-- **Aula 34:** Desenvolvimento do projeto: parte 1.
-- **Aula 35:** Desenvolvimento do projeto: parte 2.
-- **Aula 36:** Prática no Tinkercad: simulação do projeto integrador.
+### Semana 17-18: Projeto Integrador - Parte 2
+- **Aula 33:** Finalização do desenvolvimento do projeto.
+- **Aula 34:** Testes finais e ajustes baseados em feedback.
+- **Aula 35:** Preparação para a apresentação do projeto.
+- **Aula 36:** Apresentação dos projetos dos alunos.
 
-### Semana 19-20: Revisão e Apresentação de Projetos
-- **Aula 37:** Revisão geral dos conteúdos abordados.
-- **Aula 38:** Finalização dos projetos integradores.
-- **Aula 39:** Apresentação dos projetos integradores.
-- **Aula 40:** Avaliação final e feedback.
+### Semana 19-20: Revisão e Avaliação
+- **Aula 37:** Revisão geral do conteúdo do curso.
+- **Aula 38:** Preparação para a avaliação final.
+- **Aula 39:** Avaliação final.
+- **Aula 40:** Feedback, discussão dos resultados e encerramento do curso.
 
 ### Considerações Finais
 
-1. **Didática:** Cada aula deve incluir uma breve revisão do conteúdo anterior, exposição do novo conteúdo e tempo para perguntas.
-2. **Exercícios:** Os exercícios teóricos devem reforçar a compreensão dos conceitos, enquanto os exercícios práticos no Tinkercad permitem a aplicação direta desses conceitos.
-3. **Projeto Integrador:** Incentivar os alunos a desenvolverem um projeto que integre os conhecimentos adquiridos ao longo do curso, promovendo a aplicação prática e a criatividade.
-
-Essa trilha de aprendizado é desenhada para garantir que os alunos adquiram um conhecimento sólido e abrangente em robótica, desde os fundamentos de eletricidade e eletrônica até a aplicação de inteligência artificial e a utilização de kits de robótica.
+Esta trilha de aprendizado visa proporcionar uma formação robusta e abrangente em robótica, começando com os princípios fundamentais da eletricidade e avançando até a aplicação prática de conceitos de robótica e inteligência artificial, culminando em um projeto integrador que permite aos alunos aplicar tudo o que aprenderam de forma prática e criativa.
