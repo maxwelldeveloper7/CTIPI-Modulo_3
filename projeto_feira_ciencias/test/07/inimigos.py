@@ -69,7 +69,7 @@ while running:
 
         # Verifica colisão com a nave
         if colisao(x, y, nave.get_width(), nave.get_height(), inimigo_pos[0], inimigo_pos[1], inimigo.get_width(), inimigo.get_height()):
-            running = False  # Se houver colisão, encerra o jogo
+            running = True  # Se houver colisão, encerra o jogo
 
         # Desenha o inimigo na tela
         screen.blit(inimigo, inimigo_pos)
