@@ -19,6 +19,23 @@ inimigo = pygame.image.load('inimigo.png')
 projetil = pygame.image.load('projetil.png')
 explosao = pygame.image.load('explosao.png')
 
+# Define a fonte para exibir a pontuação
+fonte = pygame.font.SysFont(None, 36)
+
+# Função para verificar colisão
+def colisao(x1, y1, largura1, altura1, x2, y2, largura2, altura2):
+    if (x1 < x2 + largura2 and
+        x1 + largura1 > x2 and
+        y1 < y2 + altura2 and
+        y1 + altura1 > y2):
+        return True
+    return False
+
+# Função para desenhar a pontuação na tela
+def exibir_pontuacao(screen, pontuacao):
+    texto = fonte.render(f"Pontuação: {pontuacao}", True, (255, 255, 255))
+    screen.blit(texto, (10, 10))
+
 # Carrega o som do disparo e a música de fundo
 som_disparo = pygame.mixer.Sound('disparo.wav')
 pygame.mixer.music.load('musica_fundo.mp3')
@@ -32,6 +49,9 @@ velocidade = 5
 inimigos = []
 projeteis = []
 
+# Inicializa a pontuação
+pontuacao = 0
+
 # Cria 5 inimigos em posições aleatórias
 for i in range(5):
     x_inimigo = random.randint(0, largura_tela - inimigo.get_width())
@@ -39,7 +59,7 @@ for i in range(5):
     inimigos.append([x_inimigo, y_inimigo])
 
 # Velocidade dos inimigos
-velocidade_inimigos = 5
+velocidade_inimigos = 1
 
 # Loop principal
 running = True
@@ -97,6 +117,9 @@ while running:
     # Desenha cada projétil na tela
     for p in projeteis:
         screen.blit(projetil, p)
+
+    # Exibe a pontuação
+    exibir_pontuacao(screen, pontuacao)
 
     # Atualiza a tela
     pygame.display.flip()
