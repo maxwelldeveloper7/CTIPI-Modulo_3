@@ -55,7 +55,7 @@ Com base na grade curricular fornecida e nas prioridades metodológicas, aqui es
 
 **Semana 8:**
 - Aula 36: PyTest: Testes de integração
-- Aula 37: Ferramentas de teste para front-end (Jest, Mocha)
+- Aula 37: Ferramentas de teste para front-end (Selenium, Playwright)
 - Aula 38: Jest: Setup e primeiros testes
 - Aula 39: Jest: Testes de componentes
 - Aula 40: Exercícios práticos de testes automatizados
