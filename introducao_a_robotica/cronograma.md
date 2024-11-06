@@ -40,13 +40,13 @@
 - **Aula 25:** Visão geral dos kits de robótica disponíveis no mercado.
 - **Aula 26:** Seleção e utilização de um kit de robótica adequado para projetos.
 - **Aula 27:** Montagem e programação de robôs usando kits específicos.
-- **Aula 28:** Prática no Tinkercad: simulação com kits de robótica.
+- **Aula 28:** Prática no Webots: simulação com kits de robótica.
 
 ### Semana 15-16: Projeto Integrador - Parte 1
 - **Aula 29:** Planejamento e design de um projeto integrador.
 - **Aula 30:** Desenvolvimento do projeto: integração de componentes eletrônicos.
 - **Aula 31:** Continuação do desenvolvimento: programação e teste preliminar.
-- **Aula 32:** Prática no Tinkercad: simulação e ajustes do projeto.
+- **Aula 32:** Prática no Webots: simulação e ajustes do projeto.
 
 ### Semana 17-18: Projeto Integrador - Parte 2
 - **Aula 33:** Finalização do desenvolvimento do projeto.
