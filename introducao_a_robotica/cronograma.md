@@ -28,13 +28,13 @@
 - **Aula 17:** Visão geral dos componentes de um robô: sensores, atuadores, motores.
 - **Aula 18:** Exploração de diferentes tipos de sensores e suas aplicações.
 - **Aula 19:** Mobilidade e controle de movimento em robótica.
-- **Aula 20:** Prática no Tinkercad: design e simulação de um robô móvel simples.
+- **Aula 20:** Prática no Webots: design e simulação de um robô móvel simples.
 
 ### Semana 11-12: Inteligência Artificial em Robótica
 - **Aula 21:** Fundamentos de Inteligência Artificial e sua aplicação em robótica.
 - **Aula 22:** Introdução ao machine learning: conceitos básicos e aplicações.
 - **Aula 23:** Implementação de algoritmos simples de IA em robôs.
-- **Aula 24:** Prática no Tinkercad: simulação de um robô com capacidades autônomas básicas.
+- **Aula 24:** Prática no Webots: simulação de um robô com capacidades autônomas básicas.
 
 ### Semana 13-14: Exploração de Kits de Robótica
 - **Aula 25:** Visão geral dos kits de robótica disponíveis no mercado.
