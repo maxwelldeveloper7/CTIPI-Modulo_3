@@ -1,4 +1,4 @@
-<h3><a href='../README.md#curso-técnico-de-informática-para-internet---módulo-3'>Voltar</a></h3>
+## Trilha de aprendizado para o componente curricular "Projeto WEB Avançado"
 
 ### Semana 1-2: Revisão de Fundamentos
 **Semana 1:**
