@@ -4,7 +4,7 @@ Este repositório contém projetos educacionais do Módulo 3, abordando diversas
 
 ## Estrutura do Repositório
 
-- <a href='./bancos_de_dados_2/cronograma.md' target='blank'>**Banco de Dados**</a>: Exemplos e práticas sobre o uso de bancos de dados.
+- <a href='./bancos_de_dados_2/cronograma.md' target='_blank'>**Banco de Dados**</a>: Exemplos e práticas sobre o uso de bancos de dados.
 - **Dispositivos Móveis**: Projetos relacionados ao desenvolvimento para dispositivos móveis.
 - **Introdução à Robótica**: Materiais e códigos para iniciantes em robótica.
 - **Projeto Web**: Desenvolvimento de aplicações web.
