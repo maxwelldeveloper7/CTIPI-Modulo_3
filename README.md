@@ -1,5 +1,5 @@
+![](./logom3.jpeg)
 # Curso Técnico de Informática para Internet - Módulo 3
-
 Este repositório contém projetos educacionais do Módulo 3, abordando diversas tecnologias e temas de programação. Os projetos visam oferecer prática e aplicação dos conceitos aprendidos em sala de aula.
 
 ## Estrutura do Repositório
