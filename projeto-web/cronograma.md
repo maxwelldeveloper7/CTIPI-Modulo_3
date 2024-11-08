@@ -3,10 +3,10 @@
 ### Semana 1-2: Revisão de Fundamentos
 **Semana 1:**
 - <a href='./aulas/01.md'>Aula 1: Revisão de HTML5 (Estrutura básica, tags semânticas)</a>
-- Aula 2: Revisão de CSS3 (Seletores, propriedades básicas)
-- Aula 3: Revisão de JavaScript (Sintaxe básica, variáveis, tipos de dados)
-- Aula 4: Revisão de Fundamentos de Design (Princípios de design, cores, tipografia)
-- Aula 5: Revisão de Editoração Gráfica (Ferramentas básicas, criação de mockups)
+- <a href='./aulas/02.md'>Aula 2: Revisão de CSS3 (Seletores, propriedades básicas)</a>
+- <a href='./aulas/03.md'>Aula 3: Revisão de JavaScript (Sintaxe básica, variáveis, tipos de dados)</a>
+- <a href='./aulas/04.md'>Aula 4: Revisão de Fundamentos de Design (Princípios de design, cores, tipografia)</a>
+- <a href='./aulas/05.md'>Aula 5: Revisão de Editoração Gráfica (Ferramentas básicas, criação de mockups)</a>
 
 **Semana 2:**
 - Aula 6: Revisão de Engenharia de Software (Conceitos básicos, ciclo de vida do software)
