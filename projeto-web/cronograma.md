@@ -1,5 +1,4 @@
-Com base na grade curricular fornecida e nas prioridades metodológicas, aqui está uma trilha de aprendizado detalhada para a disciplina "Projeto Avançado para WEB". A trilha está dividida em semanas, com 5 aulas de 50 minutos cada, totalizando 100 aulas em 20 semanas. O foco será na exposição de conteúdo, exemplos práticos e teóricos, e exercícios.
-
+<a><h3>Voltar</h3></a>
 ### Semana 1-2: Revisão de Fundamentos
 **Semana 1:**
 - Aula 1: Revisão de HTML5 (Estrutura básica, tags semânticas)
