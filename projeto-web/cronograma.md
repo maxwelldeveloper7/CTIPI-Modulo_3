@@ -1,4 +1,5 @@
-<a href='../README.md'><h3>Voltar</h3></a>
+<h3><a href='../README.md'>Voltar</a></h3>
+
 ### Semana 1-2: Revisão de Fundamentos
 **Semana 1:**
 - Aula 1: Revisão de HTML5 (Estrutura básica, tags semânticas)
