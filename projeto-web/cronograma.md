@@ -1,8 +1,8 @@
-<h3><a href='../README.md'>Voltar</a></h3>
+<h3><a href='../README.md#curso-técnico-de-informática-para-internet---módulo-3'>Voltar</a></h3>
 
 ### Semana 1-2: Revisão de Fundamentos
 **Semana 1:**
-- Aula 1: Revisão de HTML5 (Estrutura básica, tags semânticas)
+- <a href='./aulas/01.md'>Aula 1: Revisão de HTML5 (Estrutura básica, tags semânticas)</a>
 - Aula 2: Revisão de CSS3 (Seletores, propriedades básicas)
 - Aula 3: Revisão de JavaScript (Sintaxe básica, variáveis, tipos de dados)
 - Aula 4: Revisão de Fundamentos de Design (Princípios de design, cores, tipografia)
